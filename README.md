@@ -1,2 +1,2 @@
 # TMRLED
-Flashing onboard LED connected to PA5 using timer TIM2 interrupt
+Please refer to the file README.docx in the TMRLED\Notes folder.
