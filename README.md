@@ -46,6 +46,10 @@ The system clock is configured to run at 80 MHz.
 
 ![Hardware Setup](TMRLED/Images/tmrled_hardware.jpg)
 
+## Documentation
+
+[Schematic PDF](TMRLED/Docs/tmrled_schematic.pdf)
+
 ## Development Environment
 
 - STM32CubeIDE
